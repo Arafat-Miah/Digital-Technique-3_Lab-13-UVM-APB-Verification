@@ -60,6 +60,3 @@ Any reuse should be for learning or professional evaluation only.
 ## Author
 **Arafat Miah**  
 RTL / Digital Design
-   
-   // ... (Standard do_copy and do_record methods omitted for brevity)
-endclass: apb_transaction
